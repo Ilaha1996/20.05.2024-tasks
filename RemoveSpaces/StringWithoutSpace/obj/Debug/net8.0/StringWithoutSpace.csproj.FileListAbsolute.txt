@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.exe
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.deps.json
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.runtimeconfig.json
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.dll
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.pdb
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.AssemblyInfo.cs
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.dll
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\refint\StringWithoutSpace.dll
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.pdb
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.genruntimeconfig.cache
+C:\Users\USER\source\repos\StringWithoutSpace\StringWithoutSpace\obj\Debug\net8.0\ref\StringWithoutSpace.dll
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.exe
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.deps.json
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.runtimeconfig.json
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.dll
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\bin\Debug\net8.0\StringWithoutSpace.pdb
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.AssemblyInfo.cs
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.dll
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\refint\StringWithoutSpace.dll
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.pdb
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\StringWithoutSpace.genruntimeconfig.cache
+C:\Users\USER\Desktop\20.05.2024 tasks\RemoveSpaces\StringWithoutSpace\obj\Debug\net8.0\ref\StringWithoutSpace.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\20.05.2024 tasks\\RemoveSpaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CFA0EB-7B12-4976-9D87-07BBE3F14C1B}|StringWithoutSpace\\StringWithoutSpace.csproj|c:\\users\\user\\desktop\\20.05.2024 tasks\\removespaces\\stringwithoutspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CFA0EB-7B12-4976-9D87-07BBE3F14C1B}|StringWithoutSpace\\StringWithoutSpace.csproj|solutionrelative:stringwithoutspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\20.05.2024 tasks\\RemoveSpaces\\StringWithoutSpace\\Program.cs",
+              "RelativeDocumentMoniker": "StringWithoutSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\20.05.2024 tasks\\RemoveSpaces\\StringWithoutSpace\\Program.cs",
+              "RelativeToolTip": "StringWithoutSpace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:52:59.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.AssemblyInfo.cs
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\bin\Debug\net8.0\Sumofoddnums.exe
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\bin\Debug\net8.0\Sumofoddnums.deps.json
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\bin\Debug\net8.0\Sumofoddnums.runtimeconfig.json
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\bin\Debug\net8.0\Sumofoddnums.dll
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\bin\Debug\net8.0\Sumofoddnums.pdb
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.dll
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\refint\Sumofoddnums.dll
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.pdb
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\Sumofoddnums.genruntimeconfig.cache
+C:\Users\USER\source\repos\Sumofoddnums\Sumofoddnums\obj\Debug\net8.0\ref\Sumofoddnums.dll
